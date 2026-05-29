@@ -1,6 +1,7 @@
 # minIFF: a proof of concept for a secure drone-oriented IFF solution
 
-Disclaimer: The idea for minIFF stems from a hackathon organized by the French war college (Ecole de Guerre). However, this work is not affiliated with the Ecole de Guerre, the French Ministry of Armed Forces, nor represents their positions in any sort.
+*Disclaimer: The idea for minIFF stems from a hackathon organized by the French war college (Ecole de Guerre). However, this work is not affiliated with the Ecole de Guerre, the French Ministry of Armed Forces, nor represents their positions in any sort.*
+
 UAVs are now everywhere: shootings, races, visual shows, geographic studies, agriculture, and, as we have seen in the middle East and in Ukraine, war. This democratization of the use of aerial drones comes with new threats and requirements. One of them is being able to identify friendly drones in a secure and reliable way.
 
 Secure IFF solutions already exist: IFF modes 4 (well, it is no longer considered secure nowadays) and 5 have been standardized by NATO. The problem is that the equipment needed to run these systems are outrageously expensive and way too big to be embedded on a small drone. Also, they require you to be part of a governmental organization, due to the export control enforced over those systems.
